@@ -1,0 +1,24 @@
+{
+  "Message": {
+    "MethodName": "GetListByCategory",
+    "LogParameters": [
+      {
+        "Name": "categoryId",
+        "Value": 1,
+        "Type": "Int32"
+      }
+    ]
+  }
+}
+{
+  "Message": {
+    "MethodName": "GetListByCategory",
+    "LogParameters": [
+      {
+        "Name": "categoryId",
+        "Value": 10,
+        "Type": "Int32"
+      }
+    ]
+  }
+}
