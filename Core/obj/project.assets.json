@@ -7213,11 +7213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sami\\source\\repos\\NorthwindBackend\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\Sami\\Documents\\GitHub\\NorthwindBackend\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\Sami\\source\\repos\\NorthwindBackend\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\Sami\\Documents\\GitHub\\NorthwindBackend\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\Sami\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sami\\source\\repos\\NorthwindBackend\\Core\\obj\\",
+      "outputPath": "C:\\Users\\Sami\\Documents\\GitHub\\NorthwindBackend\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
