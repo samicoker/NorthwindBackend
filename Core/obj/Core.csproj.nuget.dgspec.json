@@ -1,27 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sami\\Documents\\GitHub\\NorthwindBackend\\Core\\Core.csproj": {}
+    "C:\\Users\\Lenovo\\Documents\\GitHub\\NorthwindBackend\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sami\\Documents\\GitHub\\NorthwindBackend\\Core\\Core.csproj": {
+    "C:\\Users\\Lenovo\\Documents\\GitHub\\NorthwindBackend\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sami\\Documents\\GitHub\\NorthwindBackend\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\GitHub\\NorthwindBackend\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Sami\\Documents\\GitHub\\NorthwindBackend\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\Sami\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sami\\Documents\\GitHub\\NorthwindBackend\\Core\\obj\\",
+        "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\NorthwindBackend\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\NorthwindBackend\\Core\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Sami\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -93,7 +87,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -102,7 +97,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
