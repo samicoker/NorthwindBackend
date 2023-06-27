@@ -1,4 +1,5 @@
 ﻿using Business.Abstract;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -18,6 +19,7 @@ namespace WebAPI.Controllers
             _categoryService = categoryService;
         }
         [HttpGet("getall")]
+        //[Authorize()] // authorize olduğu takdirde yetkisine bakılmaksızın bu metotu çalıştırabilir
         public IActionResult GetList()
         {
             var result = _categoryService.GetList();

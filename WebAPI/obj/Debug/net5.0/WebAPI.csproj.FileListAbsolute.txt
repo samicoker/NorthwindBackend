@@ -212,3 +212,8 @@ C:\Users\Lenovo\Documents\GitHub\NorthwindBackend\WebAPI\obj\Debug\net5.0\refint
 C:\Users\Lenovo\Documents\GitHub\NorthwindBackend\WebAPI\obj\Debug\net5.0\WebAPI.pdb
 C:\Users\Lenovo\Documents\GitHub\NorthwindBackend\WebAPI\obj\Debug\net5.0\WebAPI.genruntimeconfig.cache
 C:\Users\Lenovo\Documents\GitHub\NorthwindBackend\WebAPI\obj\Debug\net5.0\ref\WebAPI.dll
+C:\Users\Lenovo\Documents\GitHub\NorthwindBackend\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.Pack.cache
+C:\Users\Lenovo\Documents\GitHub\NorthwindBackend\WebAPI\obj\Debug\net5.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lenovo\Documents\GitHub\NorthwindBackend\WebAPI\obj\Debug\net5.0\staticwebassets\msbuild.build.WebAPI.props
+C:\Users\Lenovo\Documents\GitHub\NorthwindBackend\WebAPI\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+C:\Users\Lenovo\Documents\GitHub\NorthwindBackend\WebAPI\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
